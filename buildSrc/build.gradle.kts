@@ -23,6 +23,7 @@ dependencies {
     implementation(libs.kotlinx.serialization.plugin)
     implementation(libs.ksp.plugin)
     implementation(libs.cashapp.molecule.plugin)
+    implementation(libs.kover.plugin)
 
 
     // Make version catalog available in precompiled scripts

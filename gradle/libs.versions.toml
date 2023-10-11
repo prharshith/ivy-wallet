@@ -61,6 +61,7 @@ kotest-datatest = { module = "io.kotest:kotest-framework-datatest", version.ref 
 kotlin-coroutines-test = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-test", version.ref = "kotlin-coroutines" }
 cashapp-molecule-plugin = { module = "app.cash.molecule:molecule-gradle-plugin", version = "1.2.1" }
 cashapp-turbine = { module = "app.cash.turbine:turbine", version = "1.0.0" }
+kover-plugin = { module = "org.jetbrains.kotlinx:kover-gradle-plugin", version = "0.7.4" }
 
 # Compose
 compose-animation = { module = "androidx.compose.animation:animation", version.ref = "compose" }
